@@ -1,0 +1,5 @@
+<!-- sample_image.xml -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="#FFFFFF" /> <!-- Background color, optional -->
+    <corners android:radius="25dp" /> <!-- Correct radius value -->
+</shape>
